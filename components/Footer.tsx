@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import logo from '@/public/logo-purple.svg'
+import logo from '@/public/cosmos-purple.svg'
 import { footerLinks } from '@/constants'
 import Link from 'next/link'
 
